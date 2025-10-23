@@ -27,6 +27,10 @@
 
 # ⚡ Tech Stack
 <p align="center">
+  <img src="https://github.com/MrMaher19/README-assets/blob/fce7f9432ae7f0ca54b36030338291dc57560e91/Icons%20Preview.gif?raw=true" alt="Animated Tech Stack Icons" width="90%" />
+</p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,git,github,vscode&theme=dark" alt="Tech icons"/>
 </p>
 
