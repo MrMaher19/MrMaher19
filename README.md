@@ -1,72 +1,107 @@
-<!-- 🌟 Mahfujur Rahman Maher — GitHub Profile README 🌟 -->
+<!-- 🌟 Mahfujur Rahman Maher — Neon GitHub Profile README 🌟 -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=00C3FF&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Mahfujur+Rahman+Maher!;A+Passionate+Developer+from+Bangladesh;Python+%7C+JavaScript+%7C+Machine+Learning+Learner+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=39FF14&center=true&width=650&lines=Hi,+I'm+Mahfujur+Rahman+Maher!;Passionate+Developer+%26+ML+Learner;Python+%7C+JavaScript+%7C+AI" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <a href="mailto:amahfujurrahman080@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail"></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://twitter.com/https://x.com/mahfu39800"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter"></a>
-  <a href="https://github.com/MrMaher19"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"></a>
+  <a href="mailto:amahfujurrahman080@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-39FF14?style=for-the-badge&logo=gmail&logoColor=black"></a>
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Connect-39FF14?style=for-the-badge&logo=linkedin&logoColor=black"></a>
+  <a href="https://https://x.com/mahfu39800"><img src="https://img.shields.io/badge/Twitter-Follow-39FF14?style=for-the-badge&logo=twitter&logoColor=black"></a>
+  <a href="https://github.com/MrMaher19"><img src="https://img.shields.io/badge/GitHub-Follow-39FF14?style=for-the-badge&logo=github&logoColor=black"></a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
-🎯 Passionate about **building modern web apps** and **exploring machine learning**  
-🚀 Currently learning **3D web, NumPy, and AI tools**  
-💡 I love solving problems and learning new technologies every day  
-
----
-
-## ⚙️ Tech Stack
+## ⚡ Tech Stack & Neon Skill Bars
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,git,github,vscode,figma&theme=light" />
+<b>Python</b>
+<div style="background:#000; width:250px; border-radius:5px; overflow:hidden;">
+  <div style="width:95%; background:#39FF14; height:15px; box-shadow:0 0 10px #39FF14; transition:1s;"></div>
+</div>
+<b>JavaScript</b>
+<div style="background:#000; width:250px; border-radius:5px; overflow:hidden;">
+  <div style="width:85%; background:#39FF14; height:15px; box-shadow:0 0 10px #39FF14; transition:1s;"></div>
+</div>
+<b>HTML/CSS</b>
+<div style="background:#000; width:250px; border-radius:5px; overflow:hidden;">
+  <div style="width:85%; background:#39FF14; height:15px; box-shadow:0 0 10px #39FF14; transition:1s;"></div>
+</div>
+<b>React</b>
+<div style="background:#000; width:250px; border-radius:5px; overflow:hidden;">
+  <div style="width:75%; background:#39FF14; height:15px; box-shadow:0 0 10px #39FF14; transition:1s;"></div>
+</div>
+<b>Node.js</b>
+<div style="background:#000; width:250px; border-radius:5px; overflow:hidden;">
+  <div style="width:70%; background:#39FF14; height:15px; box-shadow:0 0 10px #39FF14; transition:1s;"></div>
+</div>
 </p>
 
 ---
 
-## 🧠 Featured Projects
-
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| [🌐 3D Web Portfolio](https://github.com/MrMaher19/3d-portfolio) | Interactive 3D personal portfolio website | Three.js, React |
-| [🤖 ML Classifier](https://github.com/MrMaher19/ml-mini-project) | Machine Learning classifier with scikit-learn | Python, NumPy |
-| [⚡ JS Visualizer](https://github.com/MrMaher19/js-visualizer) | Data structure visualizer for learners | JavaScript, D3.js |
-
----
-
-## 📊 GitHub Stats
+## 🧭 Learning / Roadmap
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrMaher19&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrMaher19&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrMaher19&layout=compact&theme=tokyonight&hide_border=true" />
+<span style="color:#39FF14;">💻 3D Web Development (Three.js / React Three Fiber)</span><br>
+<span style="color:#39FF14;">🤖 AI Tools & Machine Learning Projects</span><br>
+<span style="color:#39FF14;">📊 Advanced NumPy & Data Visualization</span>
 </p>
 
 ---
 
-## 🌱 Contribution Graph
+## 🏆 Achievements & Certifications
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrMaher19&theme=react-dark&hide_border=true" width="90%" />
+<span style="color:#39FF14;">🥇 Winner – Hackathon XYZ 2025</span><br>
+<span style="color:#39FF14;">📜 Completed “Python for Data Science” Certificate</span><br>
+<span style="color:#39FF14;">🏅 Open Source Contributor – Project ABC</span>
 </p>
 
 ---
 
-## ✨ Inspirational Quote
+## 🌐 Featured Projects
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+<!-- Forth Assignment -->
+<a href="https://github.com/MrMaher19/Forth-Assignment-" style="text-decoration:none;">
+  <div style="background:#000; padding:10px 15px; margin:5px; display:inline-block; border-radius:10px; box-shadow:0 0 10px #39FF14; transition:0.3s;">
+    🚌 Forth-Assignment - Modern Bus Ticket Booking System (HTML, CSS, JS, Tailwind)
+    <br>
+    <img src="https://github.com/MrMaher19/Forth-Assignment-/blob/main/banner.png" alt="Forth Assignment" width="100%" />
+  </div>
+</a>
+
+<!-- Third Assignment -->
+<a href="https://github.com/MrMaher19/Third-Assignment" style="text-decoration:none;">
+  <div style="background:#000; padding:10px 15px; margin:5px; display:inline-block; border-radius:10px; box-shadow:0 0 10px #39FF14; transition:0.3s;">
+    🚌 Third-Assignment - Interactive Bus Ticket Booking (HTML, CSS, JS)
+    <br>
+    <img src="https://github.com/MrMaher19/Third-Assignment/blob/main/banner.png" alt="Third Assignment" width="100%" />
+  </div>
+</a>
+
+<!-- Second Assignment -->
+<a href="https://github.com/MrMaher19/Second-Assignment" style="text-decoration:none;">
+  <div style="background:#000; padding:10px 15px; margin:5px; display:inline-block; border-radius:10px; box-shadow:0 0 10px #39FF14; transition:0.3s;">
+    🚌 Second-Assignment - Bus Ticket Booking System (HTML, CSS, JS)
+    <br>
+    <img src="https://github.com/MrMaher19/Second-Assignment/blob/main/banner.png" alt="Second Assignment" width="100%" />
+  </div>
+</a>
+</p>
+
+---
+
+## 📊 GitHub Stats (Neon Mode)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=MrMaher19&show_icons=true&theme=radical&hide_border=true" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MrMaher19&theme=radical&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrMaher19&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MrMaher19&style=for-the-badge&color=brightgreen" alt="Profile views"/>
-</p>
-
-<p align="center">
-  <b>✨ Made with ❤️ by Mahfujur Rahman Maher ✨</b>
+<b>✨ Made with ❤️ by Mahfujur Rahman Maher ✨</b>
 </p>
