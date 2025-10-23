@@ -5,50 +5,50 @@
 </h1>
 
 <!-- Neon Jumping Link Buttons -->
-<p align="center">
-  <a href="mailto:maher@example.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/MrMaher19/README-assets/main/email-jump.gif" alt="Email" style="border-radius:50%; width:60px; height:60px; margin:5px;">
-    <br>Email
+<p align="center" style="background-color:#0ff; padding:20px; border-radius:20px;">
+  <a href="mailto:maher@example.com" target="_blank" style="text-decoration:none; margin:10px;">
+    <img src="https://raw.githubusercontent.com/MrMaher19/README-assets/main/email-jump.gif" alt="Email" style="border-radius:50%; width:60px; height:60px;">
+    <br><span style="color:white;">Email</span>
   </a>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://raw.githubusercontent.com/MrMaher19/README-assets/main/linkedin-jump.gif" alt="LinkedIn" style="border-radius:50%; width:60px; height:60px; margin:5px;">
-    <br>LinkedIn
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank" style="text-decoration:none; margin:10px;">
+    <img src="https://raw.githubusercontent.com/MrMaher19/README-assets/main/linkedin-jump.gif" alt="LinkedIn" style="border-radius:50%; width:60px; height:60px;">
+    <br><span style="color:white;">LinkedIn</span>
   </a>
-  <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://raw.githubusercontent.com/MrMaher19/README-assets/main/twitter-jump.gif" alt="Twitter" style="border-radius:50%; width:60px; height:60px; margin:5px;">
-    <br>Twitter
+  <a href="https://twitter.com/your-twitter" target="_blank" style="text-decoration:none; margin:10px;">
+    <img src="https://raw.githubusercontent.com/MrMaher19/README-assets/main/twitter-jump.gif" alt="Twitter" style="border-radius:50%; width:60px; height:60px;">
+    <br><span style="color:white;">Twitter</span>
   </a>
-  <a href="https://github.com/MrMaher19" target="_blank">
-    <img src="https://raw.githubusercontent.com/MrMaher19/README-assets/main/github-jump.gif" alt="GitHub" style="border-radius:50%; width:60px; height:60px; margin:5px;">
-    <br>GitHub
+  <a href="https://github.com/MrMaher19" target="_blank" style="text-decoration:none; margin:10px;">
+    <img src="https://raw.githubusercontent.com/MrMaher19/README-assets/main/github-jump.gif" alt="GitHub" style="border-radius:50%; width:60px; height:60px;">
+    <br><span style="color:white;">GitHub</span>
   </a>
 </p>
 
 ---
 
 ## ⚡ Tech Stack
-<p align="center">
+<p align="center" style="background-color:#ff00ff; padding:15px; border-radius:15px;">
   <img src="https://raw.githubusercontent.com/MrMaher19/README-assets/main/tech-ticker.gif" alt="Tech Stack Ticker" width="100%" />
 </p>
 
 ---
 
 ## 🧭 Learning / Roadmap
-<p align="center">
+<p align="center" style="background-color:#39ff14; padding:15px; border-radius:15px;">
   <img src="https://raw.githubusercontent.com/MrMaher19/README-assets/main/learning-visuals.gif" alt="Learning Roadmap" width="90%" />
 </p>
 
 ---
 
 ## 🏆 Achievements & Certifications
-<p align="center">
+<p align="center" style="background-color:#ff8c00; padding:15px; border-radius:15px;">
   <img src="https://raw.githubusercontent.com/MrMaher19/README-assets/main/achievements-visuals.gif" alt="Achievements" width="90%" />
 </p>
 
 ---
 
 ## 🐍 GitHub Contributions (Snake Game Style)
-<p align="center">
+<p align="center" style="background-color:#00ffff; padding:15px; border-radius:15px;">
   <img src="https://raw.githubusercontent.com/MrMaher19/README-assets/main/contribution-snake.gif" alt="GitHub Contributions Snake" width="90%" />
 </p>
 
