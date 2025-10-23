@@ -4,37 +4,30 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=39FF14&center=true&width=650&lines=Hi,+I'm+Mahfujur+Rahman+Maher!;Passionate+Developer+%26+ML+Learner;Python+%7C+JavaScript+%7C+AI" alt="Typing SVG" />
 </h1>
 
+<!-- Neon Interactive Links -->
 <p align="center">
-  <a href="mailto:amahfujurrahman080@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-39FF14?style=for-the-badge&logo=gmail&logoColor=black"></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Connect-39FF14?style=for-the-badge&logo=linkedin&logoColor=black"></a>
-  <a href="https://https://x.com/mahfu39800"><img src="https://img.shields.io/badge/Twitter-Follow-39FF14?style=for-the-badge&logo=twitter&logoColor=black"></a>
-  <a href="https://github.com/MrMaher19"><img src="https://img.shields.io/badge/GitHub-Follow-39FF14?style=for-the-badge&logo=github&logoColor=black"></a>
+  <a href="mailto:amahfujurrahman080@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/📧%20Email-Contact-0ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000&color=0ff" alt="Email" style="border-radius:15px; box-shadow:0 0 15px #0ff, 0 0 30px #0ff;">
+  </a>
+  
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/🔗%20LinkedIn-Connect-0ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000&color=0ff" alt="LinkedIn" style="border-radius:15px; box-shadow:0 0 15px #0ff, 0 0 30px #0ff;">
+  </a>
+  
+  <a href="https://x.com/mahfu39800" target="_blank">
+    <img src="https://img.shields.io/badge/🐦%20Twitter-Follow-0ff?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000&color=0ff" alt="Twitter" style="border-radius:15px; box-shadow:0 0 15px #0ff, 0 0 30px #0ff;">
+  </a>
+  
+  <a href="https://github.com/MrMaher19" target="_blank">
+    <img src="https://img.shields.io/badge/💻%20GitHub-Follow-0ff?style=for-the-badge&logo=github&logoColor=white&labelColor=000&color=0ff" alt="GitHub" style="border-radius:15px; box-shadow:0 0 15px #0ff, 0 0 30px #0ff;">
+  </a>
 </p>
 
 ---
 
-## ⚡ Tech Stack & Neon Skill Bars
+## ⚡ Tech Stack
 <p align="center">
-<b>Python</b>
-<div style="background:#000; width:250px; border-radius:5px; overflow:hidden;">
-  <div style="width:95%; background:#39FF14; height:15px; box-shadow:0 0 10px #39FF14; transition:1s;"></div>
-</div>
-<b>JavaScript</b>
-<div style="background:#000; width:250px; border-radius:5px; overflow:hidden;">
-  <div style="width:85%; background:#39FF14; height:15px; box-shadow:0 0 10px #39FF14; transition:1s;"></div>
-</div>
-<b>HTML/CSS</b>
-<div style="background:#000; width:250px; border-radius:5px; overflow:hidden;">
-  <div style="width:85%; background:#39FF14; height:15px; box-shadow:0 0 10px #39FF14; transition:1s;"></div>
-</div>
-<b>React</b>
-<div style="background:#000; width:250px; border-radius:5px; overflow:hidden;">
-  <div style="width:75%; background:#39FF14; height:15px; box-shadow:0 0 10px #39FF14; transition:1s;"></div>
-</div>
-<b>Node.js</b>
-<div style="background:#000; width:250px; border-radius:5px; overflow:hidden;">
-  <div style="width:70%; background:#39FF14; height:15px; box-shadow:0 0 10px #39FF14; transition:1s;"></div>
-</div>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,git,github,vscode&theme=dark" />
 </p>
 
 ---
@@ -61,31 +54,13 @@
 
 <p align="center">
 <!-- Forth Assignment -->
-<a href="https://github.com/MrMaher19/Forth-Assignment-" style="text-decoration:none;">
-  <div style="background:#000; padding:10px 15px; margin:5px; display:inline-block; border-radius:10px; box-shadow:0 0 10px #39FF14; transition:0.3s;">
-    🚌 Forth-Assignment - Modern Bus Ticket Booking System (HTML, CSS, JS, Tailwind)
-    <br>
-    <img src="https://github.com/MrMaher19/Forth-Assignment-/blob/main/banner.png" alt="Forth Assignment" width="100%" />
-  </div>
-</a>
+[![Forth Assignment](https://github.com/MrMaher19/Forth-Assignment-/blob/main/animation.gif)](https://github.com/MrMaher19/Forth-Assignment-)
 
 <!-- Third Assignment -->
-<a href="https://github.com/MrMaher19/Third-Assignment" style="text-decoration:none;">
-  <div style="background:#000; padding:10px 15px; margin:5px; display:inline-block; border-radius:10px; box-shadow:0 0 10px #39FF14; transition:0.3s;">
-    🚌 Third-Assignment - Interactive Bus Ticket Booking (HTML, CSS, JS)
-    <br>
-    <img src="https://github.com/MrMaher19/Third-Assignment/blob/main/banner.png" alt="Third Assignment" width="100%" />
-  </div>
-</a>
+[![Third Assignment](https://github.com/MrMaher19/Third-Assignment/blob/main/animation.gif)](https://github.com/MrMaher19/Third-Assignment)
 
 <!-- Second Assignment -->
-<a href="https://github.com/MrMaher19/Second-Assignment" style="text-decoration:none;">
-  <div style="background:#000; padding:10px 15px; margin:5px; display:inline-block; border-radius:10px; box-shadow:0 0 10px #39FF14; transition:0.3s;">
-    🚌 Second-Assignment - Bus Ticket Booking System (HTML, CSS, JS)
-    <br>
-    <img src="https://github.com/MrMaher19/Second-Assignment/blob/main/banner.png" alt="Second Assignment" width="100%" />
-  </div>
-</a>
+[![Second Assignment](https://github.com/MrMaher19/Second-Assignment/blob/main/animation.gif)](https://github.com/MrMaher19/Second-Assignment)
 </p>
 
 ---
