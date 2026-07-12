@@ -7,19 +7,19 @@
 <!-- Neon Interactive Links -->
 <p align="center">
   <a href="mailto:maher@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/📧%20Email-Contact-0ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000&color=0ff" alt="Email" style="border-radius:15px; box-shadow:0 0 25px #0ff, 0 0 50px #0ff;">
+    <img src="https://img.shields.io/badge/📧%20Email-Contact-0ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000&color=0ff" alt="Email" style="border-radius:15px; box-shadow:0 0 25px rgba(0,255,255,0.5);" />
   </a>
   
   <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/🔗%20LinkedIn-Connect-0ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000&color=0ff" alt="LinkedIn" style="border-radius:15px; box-shadow:0 0 25px #0ff, 0 0 50px #0ff;">
+    <img src="https://img.shields.io/badge/🔗%20LinkedIn-Connect-0ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000&color=0ff" alt="LinkedIn" style="border-radius:15px; box-shadow:0 0 25px rgba(0,255,255,0.5);" />
   </a>
   
-  <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://img.shields.io/badge/🐦%20Twitter-Follow-0ff?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000&color=0ff" alt="Twitter" style="border-radius:15px; box-shadow:0 0 25px #0ff, 0 0 50px #0ff;">
+  <a href="https://www.kaggle.com/mahfujurrahmanmaher" target="_blank">
+    <img src="https://img.shields.io/badge/🎓%20Kaggle-Follow-0ff?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=000&color=0ff" alt="Kaggle" style="border-radius:15px; box-shadow:0 0 25px rgba(0,255,255,0.5);" />
   </a>
   
   <a href="https://github.com/MrMaher19" target="_blank">
-    <img src="https://img.shields.io/badge/💻%20GitHub-Follow-0ff?style=for-the-badge&logo=github&logoColor=white&labelColor=000&color=0ff" alt="GitHub" style="border-radius:15px; box-shadow:0 0 25px #0ff, 0 0 50px #0ff;">
+    <img src="https://img.shields.io/badge/💻%20GitHub-Follow-0ff?style=for-the-badge&logo=github&logoColor=white&labelColor=000&color=0ff" alt="GitHub" style="border-radius:15px; box-shadow:0 0 25px rgba(0,255,255,0.5);" />
   </a>
 </p>
 
@@ -31,9 +31,3 @@
 </p>
 
 ---
-
-
-
-
-
-  
